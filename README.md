@@ -6,4 +6,5 @@
 - Compatible with Dekstop only.
 - You can make it responsive
 
+### Code by : NotGery
 ![preview img](/preview.png)
