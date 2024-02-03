@@ -5,6 +5,7 @@
 - Contains image distortion effects.
 - Compatible with Dekstop only.
 - You can make it responsive
+- Clean design + GSAP animated
 
 ### Code by : NotGery
 ![preview img](/preview.png)
