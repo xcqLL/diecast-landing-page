@@ -7,7 +7,7 @@
 - You can make it responsive
 - Clean design + GSAP animated
 
-### Display : 
+### Display : https://xcqll.github.io/diecast-landing-page/
 
 ### Code by : NotGery
 ![preview img](/preview.png)
