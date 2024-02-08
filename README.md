@@ -7,5 +7,7 @@
 - You can make it responsive
 - Clean design + GSAP animated
 
+### Display : 
+
 ### Code by : NotGery
 ![preview img](/preview.png)
